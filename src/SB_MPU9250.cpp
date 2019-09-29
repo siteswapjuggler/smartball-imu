@@ -21,7 +21,7 @@
 */
 
 #include "Arduino.h"
-#include "MPU9250.h"
+#include "SB_MPU9250.h"
 
 /*------------------------------------------------------------------------
  * MPU9250 object, input the SPI bus and chip select pin

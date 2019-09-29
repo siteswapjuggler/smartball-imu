@@ -20,8 +20,8 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-#ifndef MPU9250_h
-#define MPU9250_h
+#ifndef SB_MPU9250_h
+#define SB_MPU9250_h
 
 #include "Arduino.h"
 #include "helper_3dmath.h"		// Quaternion, vectors and rotation
